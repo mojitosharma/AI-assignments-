@@ -1,0 +1,4 @@
+name(mohit).
+career_selected(ds).
+ssh_selected(1).
+done_course(cse202).
